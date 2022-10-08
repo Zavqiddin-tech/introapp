@@ -28,6 +28,13 @@ const Footer = () => {
         <li><a href="#">Link</a></li>
         <li><a href="#">Link</a></li>
       </ul>
+      <ul className="footer__menu">
+        <li><a href="#">Link</a></li>
+        <li><a href="#">Link</a></li>
+        <li><a href="#">Link</a></li>
+        <li><a href="#">Link</a></li>
+        <li><a href="#">Link</a></li>
+      </ul>
     </footer>
   );
 };
